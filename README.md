@@ -1,10 +1,5 @@
 # La-cesta-de-la-Felicidad
 Recrea tu Mundo
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>La Cesta de la Felicidad</title>
     <style>
         body {
             background: #fef6e4;
